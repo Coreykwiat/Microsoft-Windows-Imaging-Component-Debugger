@@ -4,4 +4,4 @@ WIC is the library utilize to display Images within Windows Products.
 Install the Windows 11 SDK before usage. This debugger is to be used for research and development purposes.
 
 
-![image](https://github.com/user-attachments/assets/1183cd1a-7f3d-4bd7-ab4f-0fd8df5c95cf)
+![image](https://github.com/user-attachments/assets/cf0e96df-6254-40e9-af08-066248067a75)
