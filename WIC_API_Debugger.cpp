@@ -304,7 +304,6 @@ int wmain(int argc, wchar_t* argv[])
     std::vector<BYTE> imageBuffer;
 
     const wchar_t* filesToCheck[] = {
-        L"C:\\Users\\corey\\source\\repos\\ConsoleApplication1\\x64\\Debug\\ConsoleApplication1.exe",
         L"C:\\WINDOWS\\SYSTEM32\\ntdll.dll",
         L"C:\\WINDOWS\\System32\\KERNEL32.DLL",
         L"C:\\WINDOWS\\System32\\KERNELBASE.dll",
